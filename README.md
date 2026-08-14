@@ -1,14 +1,35 @@
 # Aishik Mondal
 
-### Software Engineer · Product Builder · Applied AI
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:111827,100:1e293b&text=Aishik%20Mondal&fontColor=f8fafc&fontSize=42&fontAlignY=38&desc=Software%20Engineer%20•%20Product%20Builder%20•%20Applied%20AI&descAlignY=58&animation=fadeIn" alt="Aishik Mondal banner" />
+</p>
 
-I build **web, mobile, and backend systems** with a growing focus on reliable architecture, developer tooling, and applied AI.
+<p align="center">
+  <strong>Building product-focused web, mobile, and backend systems with a growing focus on reliability, developer tooling, and applied AI.</strong>
+</p>
 
-I enjoy working on problems where **product thinking meets engineering** — APIs, databases, authentication, mobile applications, event-driven systems, AI workflows, deployment, debugging, and production reliability.
+<p align="center">
+  <a href="https://github.com/AishikMondal">
+    <img src="https://img.shields.io/badge/GitHub-AishikMondal-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Product%20Engineering-0f172a?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Stack-Web%20%C2%B7%20Mobile%20%C2%B7%20Backend-1e293b?style=for-the-badge" alt="Stack" />
+</p>
 
 ---
 
-## ⚡ What I Build
+## Engineering Control Surface
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│ AISHIK / ENGINEERING SURFACE                                │
+├──────────────────────────────────────────────────────────────┤
+│ BUILD   → product systems                                   │
+│ SHIP    → web · mobile · backend                            │
+│ APPLY   → AI where it adds real product value               │
+│ LEARN   → system design · distributed systems · reliability │
+└──────────────────────────────────────────────────────────────┘
+```
 
 ```text
                          PRODUCT
@@ -25,81 +46,83 @@ I enjoy working on problems where **product thinking meets engineering** — API
                      DATA + APPLIED AI
 ```
 
-> Build it. Understand how it works. Make the next version better.
-
 ---
 
-## 🧰 Engineering Stack
+## GitHub Metrics
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="42" height="42" alt="TypeScript" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="42" height="42" alt="React" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="42" height="42" alt="Node.js" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="42" height="42" alt="PostgreSQL" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="42" height="42" alt="Python" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="42" height="42" alt="Kotlin" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="42" height="42" alt="Android" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="42" height="42" alt="Docker" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="42" height="42" alt="Git" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="42" height="42" alt="GitHub Actions" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="42" height="42" alt="Google Cloud" />
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AishikMondal&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Aishik GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AishikMondal&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
 </p>
 
-**Core:** TypeScript · JavaScript · React · Next.js · Node.js · Express · PostgreSQL · REST APIs
+<p align="center">
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=AishikMondal&theme=transparent&hide_border=true" alt="GitHub streak" />
+</p>
 
-**Application Engineering:** React Native · Android · Kotlin · Jetpack Compose
-
-**Used across projects:** Python · FastAPI · Supabase · Docker · GitHub Actions · Google Cloud
-
-**Currently deepening:** System Design · Distributed Systems · DSA · Operating Systems · Computer Networks
+> Note: language cards show repository language composition, not skill level.
 
 ---
 
-## 🚀 Selected Engineering Work
+## Engineering Stack
 
-### ⚙️ OpsFlow
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,postgres,python,fastapi,supabase,kotlin,androidstudio,docker,git,githubactions,gcp" alt="Tech stack icons" />
+</p>
+
+### Core
+
+TypeScript · JavaScript · React · Next.js · Node.js · Express · PostgreSQL · REST APIs
+
+### Application Engineering
+
+React Native · Android · Kotlin · Jetpack Compose
+
+### Used Across Projects
+
+Python · FastAPI · Supabase · Docker · GitHub Actions · Google Cloud
+
+### Currently Deepening
+
+System Design · Distributed Systems · Reliable Mobile Systems · DSA · Operating Systems · Computer Networks
+
+---
+
+## Selected Engineering Work
+
+### OpsFlow
 
 **Multimodal AI operations engine for MSMEs**
 
 Turns invoices and operational documents into structured data, business signals, and executable workflows.
 
-`Next.js` · `FastAPI` · `Python` · `AI/LLM` · `SQLite`
+**Stack:** Next.js · FastAPI · Python · AI/LLM · SQLite
+**Repo:** [OpsFlow](https://github.com/AishikMondal/OpsFlow)
 
 ---
 
-### 🥗 NutriLens AI
+### NutriLens AI
 
 **AI-powered nutrition intelligence from food images**
 
-Built around multimodal analysis with a production-oriented web architecture, containerized deployment, automated testing, and cloud infrastructure.
+Built around multimodal analysis with a production-oriented web architecture, automated testing, and cloud deployment.
 
-`Next.js` · `TypeScript` · `Gemini` · `Docker` · `Google Cloud` · `GitHub Actions`
+**Stack:** Next.js · TypeScript · Gemini · Docker · Google Cloud · GitHub Actions
+**Repo:** [AMDPROMPTATHON](https://github.com/AishikMondal/AMDPROMPTATHON)
 
 ---
 
-### 💰 RoundUp
+### RoundUp
 
 **Gamified personal-finance experience designed around smarter saving**
 
-Explores savings automation, financial analytics, secure authentication, user-scoped data, and product gamification.
+Explores savings automation, financial analytics, secure authentication, and user-scoped data.
 
-`Next.js` · `TypeScript` · `Supabase` · `PostgreSQL`
+**Stack:** Next.js · TypeScript · Supabase · PostgreSQL
+**Repo:** [MyPiggyBank](https://github.com/AishikMondal/MyPiggyBank)
 
 ---
 
-### 📊 DataChat
+### DataChat
 
 **Natural language → SQL → insights**
 
@@ -109,15 +132,16 @@ Turns questions about structured data into SQL queries, executes them, and conve
 Question → LLM → SQL → Database → Result → Visualization
 ```
 
-`Python` · `Streamlit` · `SQLite` · `LLM`
+**Stack:** Python · Streamlit · SQLite · LLM
+**Repo:** [DataChat](https://github.com/AishikMondal/DataChat)
 
 ---
 
-## 🏗️ Production Engineering
+## Production Engineering
 
-Beyond personal projects, I work on real application systems involving:
+I also work on real application systems involving:
 
-**Frontend + Backend + Mobile + APIs + Databases + Authentication + Notifications + Debugging + Code Review + Deployment**
+**Frontend · Backend · Mobile · APIs · Databases · Authentication · Notifications · Debugging · Code Review · Deployment**
 
 A lot of my learning comes from solving actual engineering problems:
 
@@ -139,11 +163,11 @@ review
 better architecture
 ```
 
-I care about understanding **why systems fail**, not just finding code that makes the error disappear.
+I care about understanding **why systems fail**, not just patching symptoms.
 
 ---
 
-## 🧠 Engineering Principles
+## Engineering Principles
 
 ```text
 clarity             > unnecessary complexity
@@ -156,40 +180,17 @@ correctness         > cleverness
 
 ---
 
-## 📈 GitHub Snapshot
+## Current Direction
 
-<p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=AishikMondal&show_icons=true&hide_border=true&theme=transparent"
-    alt="Aishik's GitHub statistics"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AishikMondal&layout=compact&hide_border=true&theme=transparent"
-    alt="Most used languages"
-  />
-</p>
-
-> Language statistics represent repository code composition — not proficiency.
-
----
-
-## 🎯 Current Direction
-
-I'm currently going deeper into:
+I’m currently going deeper into:
 
 **Backend Architecture** · **Reliable Mobile Systems** · **System Design** · **Distributed Systems** · **Applied AI** · **Developer Tooling**
 
 ---
 
-## 🤝 Let's Connect
+## Connect
 
-I'm interested in software engineering, product development, open source, applied AI, and challenging systems problems.
-
-If you're building something interesting, feel free to reach out.
-
----
+If you're building something interesting around software engineering, product systems, or applied AI, feel free to connect.
 
 <p align="center">
   <strong>Build things. Understand them deeply. Keep improving.</strong>
